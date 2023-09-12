@@ -4,11 +4,11 @@
 
 <p><img align="right" src="https://github.com/NishanthSamson/NishanthSamson/blob/main/animation_500.gif" alt="animation" /></p>
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 Machine learning, Data analytics, App development
 - 📫 Mail me **nishanthsamson@gmail.com**
+- 👨‍🎓 Student pursuing dual degrees in Computer Applications and Data Science
 
-
-<br>
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -59,18 +59,9 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=NishanthSamson&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="Github stats" 
-    bg_color=#808080/></p>
-
-<br>
+<h3>GitHub Stats: </h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NishanthSamson&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="adam-pw" /></p>
 <br>
 
-- Student pursuing dual degrees in Computer Applications and Data Science
-- Interested topics: Machine learning, Data analytics, App development
-- Mail me: nishanthsamson@gmail.com
