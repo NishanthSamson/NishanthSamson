@@ -8,7 +8,7 @@
 <br>
 <br>
 
-- 🌱 Learning Machine learning, Data analytics, App development
+- 💻 Interested areas:  Machine learning, Data analytics, App development
 - 📫 Mail me **nishanthsamson@gmail.com**
 - 👨‍🎓 Pursuing dual degrees in Computer Applications and Data Science
 
@@ -50,12 +50,6 @@
 
 <br>
 
-<h3>GitHub Stats: </h3>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NishanthSamson&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
-<br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/nishanth-samson" target="blank"><img align="center"
@@ -65,6 +59,12 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="hackerrank profile" height="30" width="40" /></a>
 </p>
+
+<h3>GitHub Stats: </h3>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NishanthSamson&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="adam-pw" /></p>
+<br>
 
 
 <br>
