@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nishanth Samson </h1>
 <h3 align="center">Dual Degree Student VIT | IITM.</h3>
 
-<p><img align="right" src="https://github.com/NishanthSamson/NishanthSamson/blob/main/animation_500.gif" alt="animation" /></p>
+
 
 <br>
 <br>
 <br>
 <br>
+
+<p><img align="right" src="https://github.com/NishanthSamson/NishanthSamson/blob/main/animation_500.gif" alt="animation" /></p>
 
 - 💻 Interested areas:  Machine learning, Data analytics, App development
 - 📫 Mail me **nishanthsamson@gmail.com**
@@ -48,7 +50,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a> </p>
 
-<br>
+<br> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -60,11 +62,12 @@
       alt="hackerrank profile" height="30" width="40" /></a>
 </p>
 
+<br>
+
 <h3>GitHub Stats: </h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NishanthSamson&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="adam-pw" /></p>
 <br>
-
 
 <br>
