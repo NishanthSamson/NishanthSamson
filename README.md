@@ -3,7 +3,8 @@
 
 
 <p><img align="right" src="https://github.com/NishanthSamson/NishanthSamson/blob/main/animation_500.gif" alt="animation" /></p>
-<h3 align="right">Connect with me:</h3>
+
+<h3 align="right" style="float:right">Connect with me:</h3>
 <p align="right">
   <a href="https://www.linkedin.com/in/nishanth-samson" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
