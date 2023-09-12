@@ -2,18 +2,17 @@
 <h3 align="center">Dual Degree Student VIT | IITM 🌟.</h3>
 
 
-<div style="display: flex; justify-content: flex-end; align-items: flex-start;">
-  <div style="flex: 1; padding-right: 20px;">
-    <p><img src="https://github.com/NishanthSamson/NishanthSamson/blob/main/animation_500.gif" alt="animation" /></p>
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <h3>Connect with me:</h3>
-    <p>
-      <a href="https://www.linkedin.com/in/nishanth-samson" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin profile" height="30" width="40" /></a>
-      <a href="https://www.hackerrank.com/nishanthsamson" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank profile" height="30" width="40" /></a>
-    </p>
-  </div>
-</div>
+<p><img align="right" src="https://github.com/NishanthSamson/NishanthSamson/blob/main/animation_500.gif" alt="animation" /></p>
+
+<h3 align="right" style="float:right">Connect with me:</h3>
+<p align="right">
+  <a href="https://www.linkedin.com/in/nishanth-samson" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="linkedin profile" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/nishanthsamson" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      alt="hackerrank profile" height="30" width="40" /></a>
+</p>
 
 - 🌱 Learning Machine learning, Data analytics, App development
 - 📫 Mail me **nishanthsamson@gmail.com**
@@ -60,7 +59,7 @@
 <h3>GitHub Stats: </h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NishanthSamson&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="Github Stats" /></p>
+    alt="adam-pw" /></p>
 <br>
 
 
