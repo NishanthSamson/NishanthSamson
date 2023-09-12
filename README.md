@@ -10,6 +10,7 @@
 - 📫 Mail me **nishanthsamson@gmail.com**
 - 👨‍🎓 Pursuing dual degrees in Computer Applications and Data Science
 
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
