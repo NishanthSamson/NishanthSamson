@@ -9,7 +9,7 @@
 - 📫 Mail me **nishanthsamson@gmail.com**
 - 👨‍🎓 Pursuing dual degrees in Computer Applications and Data Science
 
-<p><img align="right" src="https://github.com/NishanthSamson/NishanthSamson/blob/main/animation_500.gif" alt="animation" /></p>
+<p><img align="right" width = 400 src="https://github.com/NishanthSamson/NishanthSamson/blob/main/animation_500.gif" alt="animation" /></p>
 
 <br>
 
