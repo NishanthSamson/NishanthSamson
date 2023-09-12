@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishanth Samson </h1>
 <h3 align="center">Dual Degree Student VIT | IITM.</h3>
-
+<br>
+<br>
 
 <p><img align="right" src="https://github.com/NishanthSamson/NishanthSamson/blob/main/animation_500.gif" alt="animation" /></p>
 
