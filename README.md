@@ -4,9 +4,7 @@
 
 <p><img align="right" src="https://github.com/NishanthSamson/NishanthSamson/blob/main/animation_500.gif" alt="animation" /></p>
 
-
 - 🌱 I’m currently learning Web Development and other programming languages
-
 - 📫 Mail me **nishanthsamson@gmail.com**
 
 
@@ -67,6 +65,10 @@
     alt="Github stats" 
     bg_color=#808080/></p>
 
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NishanthSamson&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="adam-pw" /></p>
 <br>
 
 - Student pursuing dual degrees in Computer Applications and Data Science
