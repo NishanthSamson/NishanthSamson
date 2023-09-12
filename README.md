@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nishanth Samson </h1>
-<h3 align="center">Dual Degree Student VIT | IITM.</h3>
+<h3 align="center">Dual Degree Student VIT | IITM</h3>
 
 <br>
 <br>
 
-<p><img align="right" src="https://github.com/NishanthSamson/NishanthSamson/blob/main/animation_500.gif" alt="animation" /></p>
 
 - 💻 Interested areas:  Machine learning, Data analytics, App development
 - 📫 Mail me **nishanthsamson@gmail.com**
 - 👨‍🎓 Pursuing dual degrees in Computer Applications and Data Science
+
+<p><img align="right" src="https://github.com/NishanthSamson/NishanthSamson/blob/main/animation_500.gif" alt="animation" /></p>
 
 <br>
 
@@ -49,6 +50,10 @@
 
 <br> 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NishanthSamson&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="github stats" /></p>
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/nishanth-samson" target="blank"><img align="center"
@@ -60,11 +65,4 @@
 </p>
 
 <br>
-
-<h3>GitHub Stats: </h3>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NishanthSamson&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
-<br>
-
 <br>
