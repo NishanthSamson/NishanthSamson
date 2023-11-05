@@ -5,7 +5,7 @@
 <br>
 
 
-- 💻 Interested areas:  Machine learning, Data analytics, App development
+- 💻 Interested areas:  Machine learning, Data analytics, Software development
 - 📫 Mail me **nishanthsamson@gmail.com**
 - 🎓 Pursuing dual degrees in Computer Applications and Data Science
 
