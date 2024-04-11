@@ -5,9 +5,9 @@
 <br>
 
 
-- 💻 Interested areas:  Machine learning, Data analytics, Software development
+- 💻 Interested areas:  Machine learning, Computer Vision, GANs
 - 📫 Mail me **nishanthsamson@gmail.com**
-- 🎓 Pursuing dual degrees in Computer Applications and Data Science
+- 🎓 Pursuing dual degrees in Computer Applications (MCA) and Data Science (BS)
 
 <p><img align="right" width = 350 src="https://github.com/NishanthSamson/NishanthSamson/blob/main/animation_500.gif" alt="animation" /></p>
 
